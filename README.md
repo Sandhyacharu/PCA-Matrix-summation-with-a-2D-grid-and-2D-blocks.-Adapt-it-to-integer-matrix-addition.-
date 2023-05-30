@@ -29,9 +29,6 @@ Save and Run the Program.
 
 ## Program:
 ```
-Developed By : BHAVYA U
-Register No : 212220230055
-
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
